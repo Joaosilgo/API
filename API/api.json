@@ -1,39 +1,51 @@
 {
-    "name": "João Gomes",
-    "first_name": "João",
-    "last_name": "Gomes",
-    "middle_name": "Silva",
-    "phone": "+351 964575619",
-    "mail": "joaosilgo96@gmail.com",
-    "dob": "09/02/1996",
-    
-    "ugcollege": { 
-        "name": "",
-        "degree": "Bachelor's of Engineering",
-        "field": "Informations Technology",
-        "year": "2015-2019", 
-        "cgpa": "-"
-    }, 
-    "school": ".", 
-
-    "bio": "",
-
-    "github": "https://github.com/",
-    "twitter": "https://twitter.com/",
-    "linkedin": "http://linkedin.com/in/", 
-    "instagram": "https://www.instagram.com/", 
-   
-
-    "skills": {
-        "techlanguague": ["JavaScript", "CPP", "Python", "SQL"],
-        "frameworks": ["Node JS", "Django", "Flask", "Tensorflow"],
-        "tools": ["Linux", "Docker", "MySQL", "MongoDB", "DBMS", "NGINX", "Google Cloud", "Azure"]
-    }, 
-    "main": {
-        "field1": "Backend",
-        "field2": "Software Development",
-        "field3": "Algorithms"
-    },
-
-    
+   "name":"João Gomes",
+   "first_name":"João",
+   "last_name":"Gomes",
+   "middle_name":"Silva",
+   "phone":"+351 964575619",
+   "mail":"joaosilgo96@gmail.com",
+   "dob":"09/02/1996",
+   "ugcollege":{
+      "name":"",
+      "degree":"Bachelor's of Engineering",
+      "field":"Informations Technology",
+      "year":"2015-2019",
+      "cgpa":"-"
+   },
+   "school":".",
+   "bio":"",
+   "github":"https://github.com/",
+   "twitter":"https://twitter.com/",
+   "linkedin":"http://linkedin.com/in/",
+   "instagram":"https://www.instagram.com/",
+   "skills":{
+      "techlanguague":[
+         "JavaScript",
+         "CPP",
+         "Python",
+         "SQL"
+      ],
+      "frameworks":[
+         "Node JS",
+         "Django",
+         "Flask",
+         "Tensorflow"
+      ],
+      "tools":[
+         "Linux",
+         "Docker",
+         "MySQL",
+         "MongoDB",
+         "DBMS",
+         "NGINX",
+         "Google Cloud",
+         "Azure"
+      ]
+   },
+   "main":{
+      "field1":"Backend",
+      "field2":"Software Development",
+      "field3":"Algorithms"
+   }
 }
